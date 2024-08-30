@@ -1,0 +1,85 @@
+[
+    {
+        "user_id": 1,
+        "name": "Alice",
+        "age": 25,
+        "email": "alice@example.com"
+    },
+    {
+        "user_id": 2,
+        "name": "Bob",
+        "age": 35,
+        "email": "bob@example.com"
+    },
+    {
+        "user_id": 3,
+        "name": "Charlie",
+        "age": 28,
+        "email": "charlie@example.com"
+    },
+    {
+        "user_id": 4,
+        "name": "David",
+        "age": 45,
+        "email": "david@example.com"
+    },
+    {
+        "user_id": 5,
+        "name": "Eve",
+        "age": 22,
+        "email": "eve@example.com"
+    },
+    {
+        "user_id": 6,
+        "name": "Frank",
+        "age": 18,
+        "email": "frank@example.com"
+    },
+    {
+        "user_id": 7,
+        "name": "Grace",
+        "age": null,
+        "email": "grace@example.com"
+    },
+    {
+        "user_id": 8,
+        "name": "Hank",
+        "email": "hank@example.com"
+    },
+    {
+        "user_id": 9,
+        "name": "Ivy",
+        "age": 55,
+        "email": "ivy@example.com"
+    },
+    {
+        "user_id": 10,
+        "name": "John",
+        "age": 30,
+        "email": "john@example.com"
+    },
+    {
+        "user_id": 11,
+        "name": "Kate",
+        "age": 60,
+        "email": "kate@example.com"
+    },
+    {
+        "user_id": 12,
+        "name": "Leo",
+        "age": 40,
+        "email": "leo@example.com"
+    },
+    {
+        "user_id": 13,
+        "name": "Mia",
+        "age": 27,
+        "email": "mia@example.com"
+    },
+    {
+        "user_id": 14,
+        "name": "Noah",
+        "age": 50,
+        "email": "noah@example.com"
+    }
+]
